@@ -1,7 +1,7 @@
 assignment 3
 part 2 (GAIA querying):
-    ☐ download stars from gaia DR2 w/ ADQL
-    ☐ determine how many stars returned from query
+    ✔ download stars from gaia DR3 w/ ADQL @done (9/26/2024, 9:00:45 PM)
+    ✔ determine how many stars returned from query @done (9/26/2024, 9:04:17 PM)
     ☐ identify stars where ph_qual != 'AAA'
     ☐ identify stars where parallax <= 0
     ☐ remove those problem stars, see how many left
