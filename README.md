@@ -1,4 +1,4 @@
-# Repository for ASTR8004 (Astro Computing) Assignment 3
+# ASTR8004 (Astro Computing) Assignment 3
 
 ## Directory structure
 

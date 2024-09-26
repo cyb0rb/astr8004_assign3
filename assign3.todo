@@ -1,6 +1,16 @@
 assignment 3
 part 2 (GAIA querying):
-    ☐ all of it
+    ☐ download stars from gaia DR2 w/ ADQL
+    ☐ determine how many stars returned from query
+    ☐ identify stars where ph_qual != 'AAA'
+    ☐ identify stars where parallax <= 0
+    ☐ remove those problem stars, see how many left
+    ☐ generate plot (cmds_M67.png, 200dpi):
+        ☐ color-mag diagram (BP - RP) vs abs G mag
+            ☐ to get abs G mag: find dist from parallax, get abs mag from apparent mag
+            ☐ BP-RP is one of the gaia columns already
+        ☐ 2MASS J-K vs apparent K mag
+    ☐ fiber usage recommendation
 
 part 3 (metallicity plotting):
     ✔ plot log density R vs A(O) w/ linear fit @done (9/26/2024, 3:01:41 PM)
