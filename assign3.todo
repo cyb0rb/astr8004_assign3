@@ -1,0 +1,20 @@
+assignment 3
+part 2 (GAIA querying):
+    ☐ all of it
+
+part 3 (metallicity plotting):
+    ✔ plot log density R vs A(O) w/ linear fit @done (9/26/2024, 3:01:41 PM)
+    ✔ plot residuals of R fit @done (9/26/2024, 3:01:42 PM)
+    ✔ report intercept + slope for linear fit w/ uncertainties @done (9/26/2024, 3:01:45 PM)
+    ☐ discuss results
+        ☐ where model fits well
+        ☐ RMS / goodness of fit
+    ✔ plot xy planes @done (9/26/2024, 3:30:40 PM)
+        ✔ median A(O) @done (9/26/2024, 3:01:47 PM)
+        ✔ median fitted A(O) @done (9/26/2024, 3:30:35 PM)
+        ✔ median residuals @done (9/26/2024, 3:01:48 PM)
+    ☐ discuss 2d bin choice
+        ☐ effects of fewer bins
+        ☐ effects of more bins
+    ☐ discuss residuals / possible patterns
+    ☐ make plots look nicer (standardize labels, etc)
