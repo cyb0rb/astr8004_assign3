@@ -2,14 +2,14 @@ assignment 3
 part 2 (GAIA querying):
     ✔ download stars from gaia DR3 w/ ADQL @done (9/26/2024, 9:00:45 PM)
     ✔ determine how many stars returned from query @done (9/26/2024, 9:04:17 PM)
-    ☐ identify stars where ph_qual != 'AAA'
-    ☐ identify stars where parallax <= 0
-    ☐ remove those problem stars, see how many left
-    ☐ generate plot (cmds_M67.png, 200dpi):
-        ☐ color-mag diagram (BP - RP) vs abs G mag
-            ☐ to get abs G mag: find dist from parallax, get abs mag from apparent mag
-            ☐ BP-RP is one of the gaia columns already
-        ☐ 2MASS J-K vs apparent K mag
+    ✔ identify stars where ph_qual != 'AAA' @done (9/26/2024, 9:15:14 PM)
+    ✔ identify stars where parallax <= 0 @done (9/26/2024, 9:37:22 PM)
+    ✔ remove those problem stars, see how many left @done (9/26/2024, 9:37:24 PM)
+    ✔ generate plot (cmds_M67.png, 200dpi): @done (9/26/2024, 9:50:14 PM)
+        ✔ color-mag diagram (BP - RP) vs abs G mag @done (9/26/2024, 9:48:49 PM)
+            ✔ to get abs G mag: find dist from parallax, get abs mag from apparent mag @done (9/26/2024, 9:48:46 PM)
+            ✔ BP-RP is one of the gaia columns already @done (9/26/2024, 9:48:47 PM)
+        ✔ 2MASS J-K vs apparent K mag @done (9/26/2024, 9:48:48 PM)
     ☐ fiber usage recommendation
 
 part 3 (metallicity plotting):
