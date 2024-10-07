@@ -16,9 +16,9 @@ part 3 (metallicity plotting):
     ✔ plot log density R vs A(O) w/ linear fit @done (9/26/2024, 3:01:41 PM)
     ✔ plot residuals of R fit @done (9/26/2024, 3:01:42 PM)
     ✔ report intercept + slope for linear fit w/ uncertainties @done (9/26/2024, 3:01:45 PM)
-    ☐ discuss results
-        ☐ where model fits well
-        ☐ RMS / goodness of fit
+    ✔ discuss results @done (10/7/2024, 7:56:09 PM)
+        ✔ where model fits well @done (10/7/2024, 7:56:05 PM)
+        ✔ RMS / goodness of fit @done (10/7/2024, 7:56:07 PM)
     ✔ plot xy planes @done (9/26/2024, 3:30:40 PM)
         ✔ median A(O) @done (9/26/2024, 3:01:47 PM)
         ✔ median fitted A(O) @done (9/26/2024, 3:30:35 PM)
