@@ -10,7 +10,7 @@ part 2 (GAIA querying):
             ✔ to get abs G mag: find dist from parallax, get abs mag from apparent mag @done (9/26/2024, 9:48:46 PM)
             ✔ BP-RP is one of the gaia columns already @done (9/26/2024, 9:48:47 PM)
         ✔ 2MASS J-K vs apparent K mag @done (9/26/2024, 9:48:48 PM)
-    ☐ fiber usage recommendation
+    ✔ fiber usage recommendation @done (10/7/2024, 5:42:03 PM)
 
 part 3 (metallicity plotting):
     ✔ plot log density R vs A(O) w/ linear fit @done (9/26/2024, 3:01:41 PM)
@@ -23,8 +23,8 @@ part 3 (metallicity plotting):
         ✔ median A(O) @done (9/26/2024, 3:01:47 PM)
         ✔ median fitted A(O) @done (9/26/2024, 3:30:35 PM)
         ✔ median residuals @done (9/26/2024, 3:01:48 PM)
-    ☐ discuss 2d bin choice
-        ☐ effects of fewer bins
-        ☐ effects of more bins
-    ☐ discuss residuals / possible patterns
+    ☐ discuss 2d bin choice (try 3 sets of bins)
+        ☐ effects of fewer bins (loses structure)
+        ☐ effects of more bins (not enough data in bins)
+    ☐ discuss residuals / possible patterns (what does it mean astronomically?)
     ☐ make plots look nicer (standardize labels, etc)
